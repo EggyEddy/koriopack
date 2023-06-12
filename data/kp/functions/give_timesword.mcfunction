@@ -1,0 +1,1 @@
+give @p diamond_sword{display:{Name:'{"text":"Chronos","color":"dark_purple","italic":false}',Lore:['{"text":"Sword of Gideon, controls time","color":"gray","italic":false}']}} 1

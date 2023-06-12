@@ -1,0 +1,1 @@
+give @p netherite_sword{CustomModelData:1,display:{Name:'{"text":"Eliminator","color":"dark_purple","bold":true,"italic":false}',Lore:['{"text":"Sword of Raven, controls shadows","color":"dark_gray","italic":false}']},shadowsword:1b} 1

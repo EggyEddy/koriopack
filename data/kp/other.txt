@@ -1,0 +1,21 @@
+#other folders that can be within your namespace include:
+an * marks an experimental folder, should not be included in the folder name
+structures
+dimension *
+dimension_type *
+chat_type
+damage_type
+worldgen *
+#The worldgen folder can contain subfolders such as:
+biome,configured_carver
+configured_feature
+density_function
+flat_level_generator_preset
+noise
+noise_settings
+placed_feature
+processor_list
+structure
+structure_set
+template_pool
+world_preset
