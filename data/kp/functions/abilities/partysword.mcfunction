@@ -1,0 +1,1 @@
+particle minecraft:dust 3 5 6 1 ~ ~ ~ 0.4 1 0.4 0.1 10 force @a
