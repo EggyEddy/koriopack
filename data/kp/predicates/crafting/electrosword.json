@@ -8,7 +8,7 @@
     "equipment": {
       "mainhand": {
         "count": 64,
-        "nbt": "{shard_watersword:1b}"
+        "nbt": "{shard_electrosword:1b}"
       }
     }
   }
