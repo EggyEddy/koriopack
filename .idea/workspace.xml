@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68781ae4-0ed5-4ea6-aaeb-801a6ff96391" name="Changes" comment="firesword&#10;electroshield ability">
+      <change afterPath="$PROJECT_DIR$/data/kp/functions/give_shardelectro.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kp/functions/give_shardfire.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kp/functions/give_shardshadow.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kp/functions/give_shardwater.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kp/functions/give_shardwind.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kp/functions/give_windsword.mcfunction" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RQi0DwnXp9hOJCwT0aBHYlZWur" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrsty\AppData\Roaming\.tlauncher\legacy\Minecraft\game\saves\Korio\datapacks\koriopack\data\kp\functions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68781ae4-0ed5-4ea6-aaeb-801a6ff96391" name="Changes" comment="" />
+      <created>1687188483027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687188483027</updated>
+    </task>
+    <task id="LOCAL-00001" summary="partysword">
+      <created>1687190599003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687190599003</updated>
+    </task>
+    <task id="LOCAL-00002" summary="firesword&#10;electroshield ability">
+      <created>1687614007299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687614007299</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="partysword" />
+    <MESSAGE value="firesword&#10;electroshield ability" />
+    <option name="LAST_COMMIT_MESSAGE" value="firesword&#10;electroshield ability" />
+  </component>
+</project>

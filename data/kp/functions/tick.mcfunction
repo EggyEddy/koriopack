@@ -1,6 +1,7 @@
 function kp:abilities/tick
 function kp:specials/tick
 function kp:projectiles/tick
+function kp:crafting/tick
 
 #Projectile logic
 scoreboard players add @e[type=#kp:projectile] kplife 1

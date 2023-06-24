@@ -1,0 +1,1 @@
+execute as @a if predicate kp:crafting/timesword at @s run function kp:abilities/timesword
