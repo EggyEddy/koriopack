@@ -1,0 +1,1 @@
+give @p netherite_sword{display:{Name:'{"text":"Inferno","color":"dark_red","bold":true,"italic":false}',Lore:['{"text":"Sword from the depths of the nether","color":"dark_gray","italic":false}']},CustomModelData:5,firesword:1b} 1

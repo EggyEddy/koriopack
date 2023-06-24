@@ -1,0 +1,1 @@
+execute if entity @s[scores={firesword_cooldown=0}] run function kp:projectiles/fire

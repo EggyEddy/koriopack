@@ -18,7 +18,7 @@ execute as @e[scores={kp_motion=..0},tag=kp_projectile_trident] at @s run partic
 execute as @e[scores={kp_motion=..0},tag=kp_projectile_trident] at @s as @e[distance=0..2] run damage @s 4 minecraft:magic
 execute as @e[scores={kp_motion=..0},tag=kp_projectile_test] at @s run particle minecraft:smoke ~ ~ ~ 0.1 0.1 0.1 1 50 force
 execute as @e[scores={kp_motion=..0},tag=kp_projectile_test] at @s as @e[distance=0..2] run damage @s 4 minecraft:magic
-execute as @e[scores={kp_motion=..0},tag=kp_projectile_cannon] at @s run particle minecraft:lava ~ ~ ~ 0.2 0.2 0.2 1 50 force
-execute as @e[scores={kp_motion=..0},tag=kp_projectile_cannon] at @s as @e[distance=0..2] run damage @s 3 minecraft:magic
+execute as @e[scores={kp_motion=..0},tag=kp_projectile_fire] at @s run particle minecraft:lava ~ ~ ~ 0.2 0.2 0.2 1 50 force
+execute as @e[scores={kp_motion=..0},tag=kp_projectile_fire] at @s as @e[distance=0..2] run damage @s 3 minecraft:magic
 execute as @e[scores={kp_motion=..0},tag=kp_projectile] on passengers run kill @s
 execute as @e[scores={kp_motion=..0},tag=kp_projectile] run kill @s
