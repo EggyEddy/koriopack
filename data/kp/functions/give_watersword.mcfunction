@@ -1,1 +1,1 @@
-give @p netherite_sword{CustomModelData:3,display:{Name:'{"text":"Abaddon","color":"dark_aqua","bold":true,"italic":false}',Lore:['{"text":"Sword of Gideon, controls water","color":"dark_gray","italic":false}']},watersword:1b} 1
+execute as @s if entity @s[tag=kp_admin] run give @p netherite_sword{CustomModelData:3,display:{Name:'{"text":"Abaddon","color":"dark_aqua","bold":true,"italic":false}',Lore:['{"text":"Sword of Gideon, controls water","color":"dark_gray","italic":false}']},watersword:1b} 1

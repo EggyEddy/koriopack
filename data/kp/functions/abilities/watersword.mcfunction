@@ -1,5 +1,5 @@
-effect give @s minecraft:dolphins_grace 2 9 true
-effect give @s minecraft:water_breathing 2 0 true
+effect give @s minecraft:dolphins_grace 30 9 true
+effect give @s minecraft:water_breathing 30 0 true
 effect give @s minecraft:slow_falling 2 0 true
 execute if predicate kp:water run effect give @s minecraft:levitation 2 15 true
 execute if predicate kp:flying at @s run particle minecraft:dust 0 0 1 1 ~ ~0.5 ~ 0.15 0.15 0.15 1 10 force

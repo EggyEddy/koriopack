@@ -1,1 +1,1 @@
-give @p netherite_sword{display:{Name:'{"text":"Euphoria","color":"#FF4FED","bold":true,"italic":false}',Lore:['{"text":"Sword of the nitro booster","color":"dark_gray","italic":false}']},CustomModelData:4,partysword:1b} 1
+execute as @s if entity @s[tag=kp_admin] run give @p netherite_sword{display:{Name:'{"text":"Euphoria","color":"#FF4FED","bold":true,"italic":false}',Lore:['{"text":"Sword of the nitro booster","color":"dark_gray","italic":false}']},CustomModelData:4,partysword:1b} 1

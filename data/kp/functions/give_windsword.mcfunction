@@ -1,0 +1,1 @@
+execute as @s if entity @s[tag=kp_admin] run
