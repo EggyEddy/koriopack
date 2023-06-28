@@ -1,0 +1,1 @@
+execute as @s if entity @s[tag=kp_admin] run give @p netherite_sword{CustomModelData:6,display:{Name:'{"text":"Tyranny","color":"purple","bold":true,"italic":false}',Lore:['{"text":"Sword of the Dragon, breathes fire","color":"dark_gray","italic":false}']},dragonsword:1b} 1

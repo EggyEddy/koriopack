@@ -4,3 +4,4 @@ execute as @a if predicate kp:electrosword at @s run function kp:abilities/elect
 execute as @a if predicate kp:watersword at @s run function kp:abilities/watersword
 execute as @a if predicate kp:1partysword at @s run function kp:abilities/partysword
 execute as @a if predicate kp:firesword at @s run function kp:abilities/firesword
+execute as @a if predicate kp:dragonsword at @s run function kp:abilities/dragonsword
