@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68781ae4-0ed5-4ea6-aaeb-801a6ff96391" name="Changes" comment="safe guard">
-      <change afterPath="$PROJECT_DIR$/data/kp/functions/abilities/dragonsword.mcfunction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kp/functions/give_dragonsword.mcfunction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kp/functions/mobs/mage.mcfunction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kp/functions/mobs/shadow.mcfunction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kp/functions/mobs/triton.mcfunction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kp/functions/projectiles/dragonfire.mcfunction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kp/predicates/dragonsword.json" afterDir="false" />
+    <list default="true" id="68781ae4-0ed5-4ea6-aaeb-801a6ff96391" name="Changes" comment="dragonsword">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/kp/functions/abilities/tick.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/data/kp/functions/abilities/tick.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kp/functions/give_dragonsword.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/data/kp/functions/give_dragonsword.mcfunction" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687804723415</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mobs">
+      <created>1687966762014</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687966762015</updated>
+    </task>
+    <task id="LOCAL-00008" summary="dragonsword">
+      <created>1687966777503</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687966777503</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +116,8 @@
     <MESSAGE value="shards" />
     <MESSAGE value="crafting" />
     <MESSAGE value="safe guard" />
-    <option name="LAST_COMMIT_MESSAGE" value="safe guard" />
+    <MESSAGE value="mobs" />
+    <MESSAGE value="dragonsword" />
+    <option name="LAST_COMMIT_MESSAGE" value="dragonsword" />
   </component>
 </project>
