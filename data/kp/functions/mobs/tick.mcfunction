@@ -1,0 +1,3 @@
+execute as @e[tag=eye_model] at @s unless entity @e[type=phantom,distance=0..1] run kill @s
+execute as @e[tag=eye] at @s if predicate kp:random if predicate kp:random if predicate kp:random if predicate kp:random if predicate kp:random run function kp:projectiles/eye
+execute as @e[tag=eye] at @s if predicate kp:random if predicate kp:random if predicate kp:random if predicate kp:random if predicate kp:random run function kp:mobs/eye_small

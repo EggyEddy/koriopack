@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68781ae4-0ed5-4ea6-aaeb-801a6ff96391" name="Changes" comment="dragonsword">
+    <list default="true" id="68781ae4-0ed5-4ea6-aaeb-801a6ff96391" name="Changes" comment="bugs">
+      <change afterPath="$PROJECT_DIR$/data/kp/functions/mobs/eye.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kp/functions/mobs/eye_small.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kp/functions/mobs/tick.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kp/functions/projectiles/eye.mcfunction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/kp/functions/give_dragonsword.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/data/kp/functions/give_dragonsword.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kp/functions/projectiles/tick.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/data/kp/functions/projectiles/tick.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kp/functions/tick.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/data/kp/functions/tick.mcfunction" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687966777503</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="bugs">
+      <created>1688306129274</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688306129274</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +130,7 @@
     <MESSAGE value="safe guard" />
     <MESSAGE value="mobs" />
     <MESSAGE value="dragonsword" />
-    <option name="LAST_COMMIT_MESSAGE" value="dragonsword" />
+    <MESSAGE value="bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugs" />
   </component>
 </project>
