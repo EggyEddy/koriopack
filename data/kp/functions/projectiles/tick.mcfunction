@@ -11,7 +11,7 @@ execute at @e[tag=kp_projectile_eye] run particle minecraft:dust 0 1 0 3 ~ ~ ~ 0
 execute at @e[tag=kp_projectile_ink] run particle minecraft:dust 0 0 0 10 ~ ~ ~ 0 0 0 1 1 force
 
 #On Collision
-execute as @e[scores={kp_motion=1..}] at @s unless block ~ ~ ~ air run scoreboard players set @s kp_motion 1
+execute as @e[scores={kp_motion=1..}] at @s unless block ~ ~ ~ air unless block ~ ~ ~ water run scoreboard players set @s kp_motion 1
 execute as @e[scores={kp_motion=1..}] at @s if entity @e[distance=0..1,tag=!kp_projectilecaster,type=!minecraft:block_display,type=!minecraft:item_display] run scoreboard players set @s kp_motion 1
 
 #On End
